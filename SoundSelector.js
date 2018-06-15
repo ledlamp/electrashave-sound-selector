@@ -1,4 +1,4 @@
-if (typeof MPPNotification == "undefined") $.getScript("http://files.meowbin.com/MPPNotification.js");
+if (typeof MPPNotification == "undefined") $.getScript("https://ledlamp.github.io/electrashave-sound-selector/MPPNotification.js");
 function SoundSelector(piano) {
     this.btn_pos = {};
     Object.defineProperties(this.btn_pos, {
